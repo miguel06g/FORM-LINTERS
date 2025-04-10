@@ -32,13 +32,5 @@
   "dependencies": {
     "express": "^4.21.2",
     "formulario": "file:"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MateoFlorez777/FORMULARIO-LINTERS.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MateoFlorez777/FORMULARIO-LINTERS/issues"
-  },
-  "homepage": "https://github.com/MateoFlorez777/FORMULARIO-LINTERS#readme"
+  }
 }
