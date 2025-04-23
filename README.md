@@ -39,7 +39,7 @@
 
 <p>
 En este proyecto se utilizo la siguiente tecnologias:
-html, javascript, css, webpack, azure, git, github
+html, javascript, css, webpack, azure, git, github.
 </p>
 
 ### Tech Stack <a name="tech-stack"></a>
